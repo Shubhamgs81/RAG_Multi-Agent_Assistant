@@ -165,3 +165,7 @@ The application design achieves maximum efficiency, modularity, and usability wi
 - **Dynamic Knowledge Base**: Support uploading new documents via the UI.
 - **Advanced Retrieval**: Implement hybrid search (e.g., BM25 + embeddings) for better context relevance.
 - **Caching Enhancements**: Persist vector store to disk to reduce initialization time.
+- 
+## Author
+👤 Shubham Sontakke  
+🔗 GitHub: https://github.com/Shubhamgs81
