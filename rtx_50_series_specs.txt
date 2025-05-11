@@ -1,0 +1,5 @@
+The RTX 5090 and 5080 GPUs are based on the Blackwell architecture.
+These GPUs feature second-gen ray tracing and third-gen DLSS.
+They support PCIe 5.0 and include AV1 dual encoder support.
+The RTX 5070 Ti targets mid-range gamers with improved performance per watt.
+All models support NVIDIA Reflex and G-SYNC for lower latency in games.

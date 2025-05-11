@@ -1,0 +1,5 @@
+NVIDIA was founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem.
+The company is best known for inventing the GPU, which revolutionized PC gaming.
+CUDA, launched in 2006, allowed developers to use GPUs for general-purpose computing.
+NVIDIA shifted into AI and data centers, making GPUs essential for deep learning.
+The company’s market value surged due to its focus on AI, gaming, and autonomous driving.

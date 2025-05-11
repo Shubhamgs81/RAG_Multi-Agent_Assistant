@@ -1,0 +1,5 @@
+GeForce NOW is a cloud-based gaming platform by NVIDIA.
+Users can stream games from their existing libraries via the cloud.
+It supports platforms like Steam, Epic Games Store, and Ubisoft Connect.
+GeForce NOW is available in North America, Europe, and selected parts of Asia.
+Free and premium membership tiers offer different streaming performance.

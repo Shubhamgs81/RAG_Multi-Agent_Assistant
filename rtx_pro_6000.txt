@@ -1,0 +1,5 @@
+The RTX Pro 6000 Blackwell GPU is designed for professional workloads.
+It includes 96GB of GDDR7 memory and 24,064 CUDA cores.
+The GPU requires 600W power and supports ECC memory.
+It delivers up to 1792 GB/s memory bandwidth over a 512-bit bus.
+Ideal for 3D rendering, simulation, AI model training, and video production.
